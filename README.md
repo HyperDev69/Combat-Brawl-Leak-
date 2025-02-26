@@ -10,4 +10,6 @@ HalloGaz decided to leak the server, so thats it.
 Battles, database, shop offers, brawl pass ...
 
 # REMEMBER 
-Server isn't made by me. all credits to Moldivian Ball
+Server isn't made by me. all credits to Moldivian Ball.
+DO NOT contact me/add an issue, because I can't help you
+since server isn't mine 
